@@ -2,7 +2,7 @@
 
 I'm a Ph.D. candidate in **Information and Communication Engineering** at **Shanghai University**, advised by Prof. Shugong Xu. My research focuses on **Knowledge Transfer**, **Visual Foundation Model**.
 
-🔭 Currently interning at **Ant Group** (Dec 2025 – Present), working on multimodal agent.
+🔭 Currently interning at **Ant Group** (Dec 2025 – Present), working on **Memory** for multimodal agent.
 
 ---
 
@@ -47,7 +47,7 @@ I'm a Ph.D. candidate in **Information and Communication Engineering** at **Shan
   - Led development of a **unified vision foundation model** using flow matching for multi-task compatibility.
 
 ## 🏆 Awards
-
+- **Gold Reviewer** ICML2026
 - **1st Prize & High-Value Award**, 2024 Huawei Wireless Algorithm Elite Contest ("Huawei Cup")  
 
 ---
