@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yilin Gao
 
-I'm a Ph.D. candidate in **Information and Communication Engineering** at **Shanghai University**, advised by Prof. Shugong Xu. My research focuses on **Knowledge Transfer**, **Visual Foundation Model**.
+I'm a Ph.D. candidate in **Information and Communication Engineering** at **Shanghai University**, advised by Prof. Shugong Xu. My research focuses on **Knowledge Transfer**, **Visual Foundation Model** and **MultiModal Agents**.
 
-🔭 Currently interning at **Ant Group** (Dec 2025 – Present), working on **Memory** for multimodal agent.
+🔭 Currently interning at **Tencent** (June 2026 – Present, Tencent Project Up), working on **Compression** for multimodal agent.
 
 ---
 
@@ -34,8 +34,8 @@ I'm a Ph.D. candidate in **Information and Communication Engineering** at **Shan
 ## 💼 Experience
 
 - **Research Intern** @ **Ant Group**  
-  Dec 2025 – Present  
-  Working on large foundation models and multimodal reasoning systems.
+  Dec 2025 – Jun 2026  
+  Working on **memory** for mllms.
 
 - **Research Intern** @ **Bosch China (Central Research)**  
   Sep 2025 – Nov 2025  
